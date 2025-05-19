@@ -11,3 +11,5 @@ print(word[1:3])
 print(word[-1:])
 
 
+
+
