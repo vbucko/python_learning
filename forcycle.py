@@ -42,5 +42,17 @@ for char in name:
         print(position)
     position+=1
 
+name = "Veronika"
 
+for char in name:
+    print(char)
+print(char)
 
+name4 ="Thomas"
+counter_n = 0
+
+for char in name4:
+    if char == "e":
+        counter_n+=1
+
+print(counter_n)
