@@ -1,4 +1,4 @@
-# 🌡️ Server Room Temperature Monitor
+# Server Room Temperature Monitor
 
 This is a beginner Python project that simulates a temperature monitoring system for server rooms.  
 The script continuously accepts temperature values, detects overheating, and counts the number of alerts.
